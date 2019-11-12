@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c94e300a-61ad-405e-9235-d75deea961ab" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RBQF8Ga6xnhV3FuI39Ycnhg9Xo" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.sda.fibonacci" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.sda.fibonacci" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FibonacciFactoryTest.shouldProduceRecursive">
+    <configuration name="FibonacciFactoryTest.shouldProduceIterational" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fibonacci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.fibonacci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sda.fibonacci" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.fibonacci.FibonacciFactoryTest" />
+      <option name="METHOD_NAME" value="shouldProduceIterational" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciFactoryTest.shouldProduceRecursive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fibonacci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.fibonacci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sda.fibonacci" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.fibonacci.FibonacciFactoryTest" />
+      <option name="METHOD_NAME" value="shouldProduceRecursive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciIterationalTest.shouldThrowExceptionWhenNIsNegativeAlt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fibonacci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.fibonacci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sda.fibonacci" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.fibonacci.FibonacciIterationalTest" />
+      <option name="METHOD_NAME" value="shouldThrowExceptionWhenNIsNegativeAlt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciRecursiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fibonacci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.fibonacci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sda.fibonacci" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.fibonacci.FibonacciRecursiveTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pl.sda.fibonacci in Fibonacci" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fibonacci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.fibonacci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sda.fibonacci" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FibonacciFactoryTest.shouldProduceRecursive" />
+        <item itemvalue="JUnit.FibonacciFactoryTest.shouldProduceIterational" />
+        <item itemvalue="JUnit.pl.sda.fibonacci in Fibonacci" />
+        <item itemvalue="JUnit.FibonacciRecursiveTest" />
+        <item itemvalue="JUnit.FibonacciIterationalTest.shouldThrowExceptionWhenNIsNegativeAlt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c94e300a-61ad-405e-9235-d75deea961ab" name="Default Changelist" comment="" />
+      <created>1569137902104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569137902104</updated>
+    </task>
+    <servers />
+  </component>
+</project>
